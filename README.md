@@ -11,3 +11,8 @@ c폴더에서 폴더 삭제 (my sql 경우)
 /html/webstandard
 
 html 자리에 osyun.dothome.co.kr  입력 하면 화면 나옴
+
+
+
+XAMPP 설치
+![image](https://github.com/yeon2716/PHP/assets/145514579/6583f814-00ed-4806-aa16-6d5d228a9a8c)
