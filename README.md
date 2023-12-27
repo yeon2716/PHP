@@ -20,3 +20,12 @@ XAMPP 설치
 
 
 http://localhost/dashboard/
+
+
+
+
+php 어디서 실행하는지
+![image](https://github.com/yeon2716/PHP/assets/145514579/87f09e02-9ebd-43de-87ac-a0ad9942e6e9)
+
+
+
